@@ -1,7 +1,7 @@
 # COVID-19-Bingo
 A new Power App for a COVID-19 Bingo game
 
-![COVID-Bingo!](/COVID-Bingo preview.jpg)
+![COVID-Bingo](COVID-Bingo preview.jpg)
 
 ## Description
 Are you stuck working from home during the 2020 Coronavirus outbreak? Find yourself in lots of Slack/Teams/Webex/Zoom meetings for hours of the day?  Missing the social aspects of your office and struggling to find joy in the workday?
